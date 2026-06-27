@@ -44,10 +44,12 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 ## Linked List
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
