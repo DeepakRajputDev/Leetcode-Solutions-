@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 ## Simulation
 |  |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
