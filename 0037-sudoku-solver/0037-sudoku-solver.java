@@ -13,20 +13,19 @@ class Solution {
                             
                             if (solve(board)) return true;
                             
-                            // Backtrack
+                            
                             board[row][col] = '.';
                         }
                     }
-                    return false; // No valid number found for this empty cell
+                    return false; 
                 }
             }
         }
-        return true; // All cells filled
+        return true; 
     }
 
     private boolean isValid(char[][] board, int row, int col, char c) {
         for (int i = 0; i < 9; i++) {
-            // Check row, column, and 3x3 sub-box
             if (board[row][i] == c) return false;
             if (board[i][col] == c) return false;
             if (board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c) return false;
