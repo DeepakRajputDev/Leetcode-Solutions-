@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +75,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
