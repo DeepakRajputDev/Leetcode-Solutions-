@@ -38,6 +38,7 @@
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
+| [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 ## Memoization
 |  |
 | ------- |
