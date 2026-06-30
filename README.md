@@ -20,6 +20,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -42,6 +43,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -92,8 +95,13 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
