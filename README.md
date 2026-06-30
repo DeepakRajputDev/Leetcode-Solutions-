@@ -10,6 +10,7 @@
 | [0032-longest-valid-parentheses](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0065-valid-number) |
+| [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -80,11 +81,13 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
