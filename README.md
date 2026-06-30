@@ -11,6 +11,7 @@
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0065-valid-number) |
 | [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0087-scramble-string) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -54,6 +55,7 @@
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0087-scramble-string) |
 ## Memoization
 |  |
 | ------- |
