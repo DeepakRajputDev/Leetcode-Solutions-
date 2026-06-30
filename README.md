@@ -42,6 +42,7 @@
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 ## Merge Sort
 |  |
 | ------- |
@@ -200,4 +203,24 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+## Sorting
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
+## Ordered Set
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
