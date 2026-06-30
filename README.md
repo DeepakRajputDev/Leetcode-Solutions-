@@ -117,6 +117,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -168,6 +169,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 ## String Matching
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
+| [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -255,4 +258,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
