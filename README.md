@@ -32,6 +32,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
 ## Tree
 |  |
 | ------- |
