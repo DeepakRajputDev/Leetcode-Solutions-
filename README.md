@@ -52,6 +52,7 @@
 | [0239-sliding-window-maximum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -156,6 +157,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
+| [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 ## String Matching
 |  |
 | ------- |
@@ -190,11 +193,13 @@
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
+| [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 ## Greedy
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 ## Tree
 |  |
 | ------- |
