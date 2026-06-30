@@ -21,6 +21,7 @@
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
@@ -190,18 +191,22 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -262,6 +267,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
