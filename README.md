@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0007-reverse-integer) |
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
