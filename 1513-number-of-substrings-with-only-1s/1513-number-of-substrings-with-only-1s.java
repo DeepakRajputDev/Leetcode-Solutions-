@@ -4,7 +4,7 @@ class Solution {
         int n = s.length();
         int count = 0;
         int ans = 0;
-    for (int i = 0; i < n; i =i+1) {
+    for (int i = 0; i < n; i++) {
             if (s.charAt(i) == '1') {
                 count++;
             } else {
