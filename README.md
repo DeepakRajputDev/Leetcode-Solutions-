@@ -65,6 +65,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0239-sliding-window-maximum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0301-remove-invalid-parentheses) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -328,4 +332,12 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
