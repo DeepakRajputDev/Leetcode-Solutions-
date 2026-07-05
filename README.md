@@ -65,6 +65,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -121,6 +122,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0312-burst-balloons) |
+| [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
@@ -207,6 +209,7 @@
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Two Pointers
