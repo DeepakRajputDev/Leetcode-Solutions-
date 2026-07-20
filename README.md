@@ -102,6 +102,7 @@
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0282-expression-add-operators) |
+| [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -247,6 +248,7 @@
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
+| [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 ## Tree
 |  |
 | ------- |
