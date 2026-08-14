@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
+| [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
 ## Array
 |  |
 | ------- |
@@ -343,6 +344,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
