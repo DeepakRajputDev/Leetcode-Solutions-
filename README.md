@@ -103,6 +103,7 @@
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0282-expression-add-operators) |
+| [1025-divisor-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -128,6 +129,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0312-burst-balloons) |
+| [1025-divisor-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3620-network-recovery-pathways) |
 ## Memoization
@@ -381,4 +383,16 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
