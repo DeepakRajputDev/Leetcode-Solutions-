@@ -71,6 +71,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -109,6 +110,7 @@
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3870-count-commas-in-range) |
@@ -405,4 +407,16 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
