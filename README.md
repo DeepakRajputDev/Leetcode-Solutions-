@@ -67,6 +67,7 @@
 | [0312-burst-balloons](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0312-burst-balloons) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
