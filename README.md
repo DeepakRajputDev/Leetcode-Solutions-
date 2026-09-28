@@ -78,6 +78,7 @@
 | [3024-type-of-triangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3024-type-of-triangle) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3620-network-recovery-pathways) |
+| [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -264,6 +265,7 @@
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
+| [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Tree
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [3024-type-of-triangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3024-type-of-triangle) |
+| [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -373,6 +376,7 @@
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Graph Theory
 |  |
 | ------- |
