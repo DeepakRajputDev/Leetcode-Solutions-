@@ -108,6 +108,7 @@
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
@@ -196,6 +197,7 @@
 | [0127-word-ladder](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -246,6 +248,7 @@
 | [0018-4sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
@@ -440,4 +443,8 @@
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3024-type-of-triangle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
