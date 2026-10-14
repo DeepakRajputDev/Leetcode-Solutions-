@@ -1,4 +1,6 @@
 class Solution {
+    // Time Complexity - o(n)
+    // Space complexity o(1)
     public boolean checkFibbo(int n){
         int a = 0; 
         int b = 1;
