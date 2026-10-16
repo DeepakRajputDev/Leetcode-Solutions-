@@ -24,6 +24,7 @@
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -198,6 +199,7 @@
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -345,6 +347,7 @@
 | [0018-4sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0018-4sum) |
 | [0218-the-skyline-problem](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
