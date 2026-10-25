@@ -122,6 +122,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3024-type-of-triangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3024-type-of-triangle) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3870-count-commas-in-range) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Database
 |  |
 | ------- |
