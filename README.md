@@ -73,6 +73,7 @@
 | [0485-max-consecutive-ones](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -256,6 +257,7 @@
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0905-sort-array-by-parity) |
 | [3884-first-matching-character-from-both-ends](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3884-first-matching-character-from-both-ends) |
 ## String Matching
 |  |
@@ -353,6 +355,7 @@
 | [0242-valid-anagram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0295-find-median-from-data-stream) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0905-sort-array-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3024-type-of-triangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3024-type-of-triangle) |
 | [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
