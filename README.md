@@ -30,6 +30,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0796-rotate-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -264,6 +265,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0796-rotate-string) |
 ## Monotonic Stack
 |  |
 | ------- |
