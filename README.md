@@ -77,6 +77,7 @@
 | [0905-sort-array-by-parity](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
