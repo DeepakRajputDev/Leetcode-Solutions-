@@ -123,6 +123,7 @@
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2413-smallest-even-multiple) |
@@ -398,6 +399,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
 ## Graph Theory
@@ -442,6 +444,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2413-smallest-even-multiple) |
 ## Euclidean Algorithm
@@ -460,4 +463,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
