@@ -39,6 +39,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -115,6 +116,7 @@
 | [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0282-expression-add-operators) |
@@ -444,6 +446,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2413-smallest-even-multiple) |
