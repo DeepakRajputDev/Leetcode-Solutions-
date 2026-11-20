@@ -97,6 +97,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -480,4 +481,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
