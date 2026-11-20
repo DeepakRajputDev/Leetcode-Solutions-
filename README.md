@@ -98,6 +98,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0162-find-peak-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0367-valid-perfect-square](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3620-network-recovery-pathways) |
@@ -124,6 +125,7 @@
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0282-expression-add-operators) |
+| [0367-valid-perfect-square](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
