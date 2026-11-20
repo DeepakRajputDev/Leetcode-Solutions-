@@ -76,6 +76,7 @@
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -101,6 +102,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
