@@ -3,7 +3,6 @@ class Solution {
         int n = nums.length;
         int minIdx = findMin(nums);
         
-        // Check which sorted half the target falls into
         if (target >= nums[minIdx] && target <= nums[n - 1]) {
             return binarySearch(nums, target, minIdx, n - 1);
         } else {
