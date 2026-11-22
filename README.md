@@ -131,6 +131,7 @@
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0263-ugly-number) |
@@ -187,6 +188,7 @@
 | [0044-wildcard-matching](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0273-integer-to-english-words) |
 ## Linked List
@@ -440,6 +442,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
