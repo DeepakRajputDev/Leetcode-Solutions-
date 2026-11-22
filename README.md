@@ -35,6 +35,7 @@
 | [0796-rotate-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0796-rotate-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3856-trim-trailing-vowels](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3884-first-matching-character-from-both-ends) |
@@ -89,6 +90,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
