@@ -64,6 +64,7 @@
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -438,6 +439,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0136-single-number) |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
 ## Counting
 |  |
