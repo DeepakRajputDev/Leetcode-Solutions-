@@ -33,6 +33,7 @@
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0796-rotate-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -306,6 +307,7 @@
 | [0135-candy](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0135-candy) |
 | [0321-create-maximum-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0321-create-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3745-maximize-expression-of-three-elements](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3745-maximize-expression-of-three-elements) |
@@ -449,6 +451,7 @@
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
 ## Brainteaser
 |  |
