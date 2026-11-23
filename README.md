@@ -90,6 +90,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -146,6 +147,7 @@
 | [1323-maximum-69-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1486-xor-operation-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1952-three-divisors](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2119-a-number-after-a-double-reversal) |
