@@ -121,6 +121,7 @@
 | [0278-first-bad-version](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0278-first-bad-version) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0367-valid-perfect-square](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -525,6 +526,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
 ## Prefix Sum
 |  |
 | ------- |
