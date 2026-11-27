@@ -45,6 +45,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1603-design-parking-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3925-concatenate-array-with-reverse](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/3925-concatenate-array-with-reverse) |
@@ -87,6 +88,7 @@
 | [0485-max-consecutive-ones](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -277,6 +279,7 @@
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0212-word-search-ii) |
+| [0867-transpose-matrix](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0867-transpose-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/1572-matrix-diagonal-sum) |
