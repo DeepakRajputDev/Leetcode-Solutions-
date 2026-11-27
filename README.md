@@ -58,6 +58,7 @@
 | [0018-4sum](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
@@ -224,6 +225,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0076-minimum-window-substring) |
@@ -265,6 +267,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0174-dungeon-game) |
