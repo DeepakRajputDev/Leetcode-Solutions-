@@ -114,6 +114,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0162-find-peak-element) |
@@ -140,6 +141,7 @@
 | [0012-integer-to-roman](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
@@ -527,4 +529,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0238-product-of-array-except-self) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
