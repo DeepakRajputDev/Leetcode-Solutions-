@@ -63,6 +63,7 @@
 | [0041-first-missing-positive](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -132,6 +133,7 @@
 | [0007-reverse-integer](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/D23-cell/Leetcode-Solutions-/tree/master/0202-happy-number) |
